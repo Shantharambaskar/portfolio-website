@@ -1,6 +1,7 @@
-"homepage": "https://Shantharambaskar.github.io/portfolio_website",
+
 
 {
+  "homepage": "https://Shantharambaskar.github.io/portfolio_website",
   "name": "portfolio-website",
   "version": "1.0.0",
   "private": true,
