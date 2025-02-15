@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Shantharambaskar.github.io/portfolio-website/"
+  "homepage": "https://Shantharambaskar.github.io/portfolio-website/",
   "name": "portfolio-website",
   "version": "1.0.0",
   "private": true,
@@ -17,4 +17,3 @@
     "eject": "react-scripts eject"
   }
 }
-
